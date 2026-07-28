@@ -383,7 +383,7 @@ if predict:
     # RESULT CARD
     # ============================================================
 
-    st.container(border=True)
+  
 
     st.markdown("## 🚚 Estimated Delivery Time")
 
